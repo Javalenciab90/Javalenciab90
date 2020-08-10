@@ -12,6 +12,14 @@ Some about me:
 - 👯 I’m looking to collaborate on ... Projects with clean architecture
 - 💬 Ask me about ... Anything
 
+Something:
+
+![kotlinImage](https://user-images.githubusercontent.com/56521677/89834370-56d20280-db28-11ea-8c21-243684d2a81e.png)
+![intellijIdeaImage](https://user-images.githubusercontent.com/56521677/89834412-6c472c80-db28-11ea-9020-ea8d3cae5eaa.png)
+![figmaImage](https://user-images.githubusercontent.com/56521677/89834475-88e36480-db28-11ea-9513-04c2bcae83cb.png)
+![androidstudioImage](https://user-images.githubusercontent.com/56521677/89834493-96005380-db28-11ea-9d1c-0c54170a2b0f.png)
+
+
 <!--
 **Javalenciab90/Javalenciab90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
