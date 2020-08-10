@@ -4,7 +4,7 @@ Electronic engineer passionate about the programming of Android mobile applicati
 Learning about clean architecture and dependency injection
 
 Some about me:
-[![LinkedIn](https://user-images.githubusercontent.com/282759/84680162-4161a300-af00-11ea-912c-8f32e5cc1676.png)](https://www.linkedin.com/in/jaimevalenciabasto/)
+[![LinkedIn](https://user-images.githubusercontent.com/56521677/89833442-a7e0f700-db26-11ea-9838-7acaf0c1d06e.png)](https://www.linkedin.com/in/jaimevalenciabasto/)
 
 
 - 🔭 I’m currently working on ... Project with Firebase CloudFirestore
