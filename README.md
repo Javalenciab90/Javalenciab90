@@ -15,8 +15,8 @@ Some about me:
 Something:
 
 ![kotlinImage](https://user-images.githubusercontent.com/56521677/89834790-22ab1180-db29-11ea-9581-832863308b9b.png)
-![intellijIdeaImage](https://user-images.githubusercontent.com/56521677/89834412-6c472c80-db28-11ea-9020-ea8d3cae5eaa.png)
-![figmaImage](https://user-images.githubusercontent.com/56521677/89834475-88e36480-db28-11ea-9513-04c2bcae83cb.png)
+![intellijIdeaImage](https://user-images.githubusercontent.com/56521677/89834894-4a9a7500-db29-11ea-8c1e-22ea8e8c6abb.png)a.png)
+![figmaImage](https://user-images.githubusercontent.com/56521677/89834951-66058000-db29-11ea-9b91-55a77c2055df.png)
 ![androidstudioImage](https://user-images.githubusercontent.com/56521677/89834585-c7791f00-db28-11ea-8c95-3a0f0a3993c0.png)
 
 
