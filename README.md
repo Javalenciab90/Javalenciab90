@@ -2,21 +2,18 @@
 
 Electronic engineer passionate about the programming of Android mobile applications.
 
-Some about me:
 [![LikedInImage](https://user-images.githubusercontent.com/56521677/89834032-ae23a300-db27-11ea-9cf0-9dc27ec16de0.png)](https://www.linkedin.com/in/jaimevalenciabasto/)
 
-
 - 🔭 I’m currently working on ...Small Projects (Coroutines, Flow, Cache with Room, Dependency injection with Hilt...)
-- 🌱 I’m currently learning ... Unit Testing
-- 💬 Ask me about ... Anything
 
-Something:
+<br/>
 
-![kotlinImage](https://user-images.githubusercontent.com/56521677/89834790-22ab1180-db29-11ea-9581-832863308b9b.png)
-![intellijIdeaImage](https://user-images.githubusercontent.com/56521677/89834894-4a9a7500-db29-11ea-8c1e-22ea8e8c6abb.png)
-![figmaImage](https://user-images.githubusercontent.com/56521677/89834951-66058000-db29-11ea-9b91-55a77c2055df.png)
-![androidstudioImage](https://user-images.githubusercontent.com/56521677/89834585-c7791f00-db28-11ea-8c95-3a0f0a3993c0.png)
+<a href="https://github.com/Javalenciab90">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=Javalenciab90&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 
+</a>
+
+<br/>
 
 <!--
 **Javalenciab90/Javalenciab90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
