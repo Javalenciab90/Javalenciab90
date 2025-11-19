@@ -1,8 +1,13 @@
-👋 Sobre mí:
+👋 Holaa! Mi nombre es Jaime Valencia
 
 - 🎓 Ingeniero Electrónico con 5 años de experiencia en desarrollo Android, especializado en Kotlin.
 - 🤝 Colaboro activamente con equipos multifuncionales para definir, diseñar y entregar nuevas funcionalidades que se alineen con los objetivos del proyecto.
 - ⚡ Experiencia trabajando en entornos Agile/Scrum.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javalenciab90)
+
+[![Email](https://img.shields.io/badge/Email-0077B5?style=flat&logo=gmail&logoColor=white)](mailto:javalenciab90@gmail.com)
+
 
 ---
 
