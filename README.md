@@ -1,4 +1,4 @@
-👋 Holaa! Mi nombre es Jaime Valencia
+# 👋 Holaa! Mi nombre es Jaime Valencia
 
 - 🎓 Ingeniero Electrónico con 5 años de experiencia en desarrollo Android, especializado en Kotlin.
 - 🤝 Colaboro activamente con equipos multifuncionales para definir, diseñar y entregar nuevas funcionalidades que se alineen con los objetivos del proyecto.
@@ -11,7 +11,7 @@
 
 ---
 
-🚀 Tecnologías & Herramientas
+## 🚀 Tecnologías & Herramientas
 🧩 Lenguajes, Frameworks y Librerías
 <p> <img src="https://img.shields.io/badge/Kotlin-555?style=flat&logo=kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/KMM-555?style=flat&logo=kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/Jetpack_Compose-555?style=flat&logo=jetpackcompose&logoColor=white"/> <img src="https://img.shields.io/badge/Room-555?style=flat&logo=android&logoColor=white"/> <img src="https://img.shields.io/badge/Coroutines-555?style=flat&logo=kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/Flows-555?style=flat&logo=kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/LiveData-555?style=flat&logo=android&logoColor=white"/> <img src="https://img.shields.io/badge/Retrofit2-555?style=flat&logo=android&logoColor=white"/> <img src="https://img.shields.io/badge/Material_Design-555?style=flat&logo=materialdesign&logoColor=white"/> <img src="https://img.shields.io/badge/Glide-555?style=flat&logo=android&logoColor=white"/> <img src="https://img.shields.io/badge/Picasso-555?style=flat&logo=android&logoColor=white"/> </p>
 🏛️ Arquitecturas
@@ -27,11 +27,11 @@
 
 ---
 
-🌎 Idiomas
+## 🌎 Idiomas
 🇪🇸 Español (Lengua materna)   |   🇺🇸 Inglés (Intermedio B1)
 
 ---
-🎓 Cursos Recientes
+## 🎓 Cursos Recientes
 - **Proyecto:** Multi-Modular E-commerce App (Android & iOS - KMP)  
   Proyecto de E-commerce con arquitectura **multi-modular**, usando **Kotlin Multiplatform (KMP)** y patrón **MVVM**.
 
