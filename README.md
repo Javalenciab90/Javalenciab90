@@ -19,7 +19,7 @@
 * **Backend:** Firebase Auth & Cloud Firestore (Sincronización Real-time).
 * **Highlight:** Arquitectura **multi-modular** avanzada con un sistema de **Onboarding Dinámico** y lógica compartida de cálculos físicos.
 
-> [**🎥 Ver Demo en YouTube**](https://www.youtube.com/watch?v=XLpzB0UJNzo) | [**💻 Explorar Repositorio**](https://github.com/TU_USUARIO/FitBoxGo)
+> [**🎥 Ver Demo en YouTube**](https://www.youtube.com/watch?v=XLpzB0UJNzo) | [**💻 Explorar Repositorio**](https://github.com/Javalenciab90/FitBoxGo-Showcase)
 
 ---
 
