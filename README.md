@@ -25,28 +25,55 @@
 
 ## 🚀 Tecnologías & Herramientas
 
-### 🧩 Multiplataforma & Mobile
+### 🧩 Lenguajes & Frameworks Móviles
 <p>
   <img src="https://img.shields.io/badge/Compose_Multiplatform-555?style=flat&logo=kotlin&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kotlin_Multiplatform-555?style=flat&logo=kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jetpack_Compose-555?style=flat&logo=jetpackcompose&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kotlin-555?style=flat&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jetpack_Compose-555?style=flat&logo=jetpackcompose&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android_SDK-555?style=flat&logo=android&logoColor=white"/>
 </p>
 
-### 🏛️ Arquitecturas & DI
+### 🏛️ Arquitecturas & Estado
 <p>
   <img src="https://img.shields.io/badge/MVI-444?style=flat&logo=android&logoColor=white"/>
   <img src="https://img.shields.io/badge/MVVM-444?style=flat&logo=android&logoColor=white"/>
   <img src="https://img.shields.io/badge/Multimodular-444?style=flat&logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Coroutines-444?style=flat&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flows-444?style=flat&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LiveData-444?style=flat&logo=android&logoColor=white"/>
+</p>
+
+### 💉 Dependencias & DI
+<p>
   <img src="https://img.shields.io/badge/Koin-444?style=flat&logo=kotlin&logoColor=white"/>
   <img src="https://img.shields.io/badge/Dagger_Hilt-444?style=flat&logo=google&logoColor=white"/>
 </p>
 
-### ☁️ Firebase & Cloud
+### 📦 Persistencia & Red
+<p>
+  <img src="https://img.shields.io/badge/Room-333?style=flat&logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Retrofit2-333?style=flat&logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Glide_/_Picasso-333?style=flat&logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Material_Design-333?style=flat&logo=materialdesign&logoColor=white"/>
+</p>
+
+### 🔥 Firebase Ecosystem
 <p>
   <img src="https://img.shields.io/badge/Auth-666?style=flat&logo=firebase&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firestore_Realtime-666?style=flat&logo=firebase&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cloud_Functions-666?style=flat&logo=firebase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firestore-666?style=flat&logo=firebase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Remote_Config-666?style=flat&logo=firebase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Storage-666?style=flat&logo=firebase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Functions-666?style=flat&logo=firebase&logoColor=white"/>
+</p>
+
+### 🧪 Testing & Herramientas
+<p>
+  <img src="https://img.shields.io/badge/Mockk_/_Mockito-555?style=flat&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git_/_GitHub-555?style=flat&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-555?style=flat&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-555?style=flat&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CI/CD-555?style=flat&logo=githubactions&logoColor=white"/>
 </p>
 
 ---
