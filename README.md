@@ -63,7 +63,3 @@
 - 🇪🇸 **Español:** Nativo
 - 🇺🇸 **Inglés:** Intermedio (B1)
 
----
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Javalenciab90&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
