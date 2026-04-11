@@ -2,7 +2,7 @@
 ### **Mobile Software Developer | Android & Compose Multiplatform**
 
 - 🎓 **Ingeniero Electrónico** con 5 años de experiencia en desarrollo móvil, especializado en el ecosistema **Kotlin**.
-- 🚀 Actualmente enfocado en la creación de aplicaciones multiplataforma con **Compose Multiplatform (CMP)**.
+- 🚀 Actualmente enfocado en la creación de aplicaciones multiplataforma con **Compose Multiplatform (KMP/CMP)**.
 - 🤝 Colaborador activo en equipos multifuncionales bajo metodologías **Agile/Scrum**, priorizando la arquitectura limpia y la escalabilidad.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javalenciab90)
