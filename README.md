@@ -22,12 +22,38 @@ Solución multiplataforma diseñada para optimizar el entrenamiento de atletas, 
 * **Infrastructure:** Arquitectura **multi-modular** para mejorar la escalabilidad, compilación modular y separación de responsabilidades.
 * **Integration:** Firebase (Auth, Firestore, Cloud Functions) con un enfoque en diseño desacoplado.
 
-> [**🎥 Ver Demo en YouTube**](https://www.youtube.com/watch?v=XLpzB0UJNzo) | [**💻 Explorar Showcase**](https://github.com/Javalenciab90/FitBoxGo-Showcase)
+## 🏋️ FitBoxGo: Mobile Showcase
 
-### 📲 Descarga FitBoxGo
-[![Linktree](https://img.shields.io/badge/Linktree-111111?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/FitBoxGoo)
-[![App Store](https://img.shields.io/badge/App_Store-000000?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/app/fitboxgo/id6761392693)
-[![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=org.javalenciab90.fitboxgo)
+| **Demo: Onboarding & Calculadora** | **Demo: Sincronización & WODs** |
+| :---: | :---: |
+| <video src="https://github.com/user-attachments/assets/6f7435a6-8096-4738-837d-d5af384ff12e" width="300"></video> | <video src="https://github.com/user-attachments/assets/3140e1cd-b562-4623-9d22-0a3c9b1bab5c" width="300"></video> |
+
+> **¿Quieres ver los detalles técnicos y la arquitectura?**
+> [**Explorar el Showcase Técnico aquí**](https://github.com/Javalenciab90/FitBoxGo-Showcase)
+
+---
+
+### 🚀 **¿Listo para optimizar tu entrenamiento?**
+
+<div align="center">
+  <p>Descarga <b>FitBoxGo</b> ahora y lleva tu rendimiento al siguiente nivel:</p>
+  
+  <br>
+  <a href="https://apps.apple.com/app/fitboxgo/id6761392693">
+    <img src="https://img.shields.io/badge/App_Store-Descargar_en_iOS-007AFF?style=for-the-badge&logo=apple&logoColor=white" alt="App Store"/>
+  </a>
+  <br><br>
+  <a href="https://play.google.com/store/apps/details?id=org.javalenciab90.fitboxgo">
+    <img src="https://img.shields.io/badge/Google_Play-Descargar_en_Android-34A853?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play"/>
+  </a>
+  <br><br>
+
+  <a href="https://linktr.ee/FitBoxGoo">
+    <img src="https://img.shields.io/badge/Linktree-Todos_los_enlaces-FF3366?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree"/>
+  </a>
+</div>
+
+---
 
 
 ## 🚀 Tecnologías & Herramientas
