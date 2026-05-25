@@ -1,27 +1,34 @@
 # 👋 ¡Hola! Soy Jaime Valencia
-### **Mobile Software Developer | Android & Compose Multiplatform**
+### **Mobile Software Developer | Android & Compose Multiplatform Specialist**
 
-- 🎓 **Ingeniero Electrónico** con 5 años de experiencia en desarrollo móvil, especializado en el ecosistema **Kotlin**.
-- 🚀 Actualmente enfocado en la creación de aplicaciones multiplataforma con **Compose Multiplatform (KMP/CMP)**.
-- 🤝 Colaborador activo en equipos multifuncionales bajo metodologías **Agile/Scrum**, priorizando la arquitectura limpia y la escalabilidad.
+- 🎓 **Ingeniero Electrónico** con 5 años de experiencia transformando requerimientos en soluciones móviles de alto impacto.
+- 🚀 **Especialista en Kotlin Multiplatform (KMP/CMP):** Enfocado en maximizar la reutilización de código y la eficiencia en el ciclo de desarrollo entre Android e iOS.
+- 🤝 **Arquitecto de Software:** Apasionado por la **Clean Architecture**, la reactividad con **Flows** y la implementación de patrones **MVI** para garantizar interfaces escalables y testeables.
+- ⚡ **Enfoque:** Calidad de código, robustez en el manejo de estados y excelencia en la experiencia de usuario.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javalenciab90)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:javalenciab90@gmail.com)
 
 ---
 
-## 🔥 Proyecto Destacado (Featured Project)
+## 🔥 Proyecto Destacado: FitBoxGo
 
-### 🏋️ [FitBoxGo: Optimiza la Fuerza con Precisión](https://github.com/TU_USUARIO/FitBoxGo)
-**FitBoxGo** es una solución multiplataforma (Android & iOS) diseñada para atletas de alto rendimiento en **Colombia 🇨🇴**.
+### 🏋️ [FitBoxGo: Rendimiento y Precisión](https://github.com/Javalenciab90/FitBoxGo-Showcase)
+Solución multiplataforma diseñada para optimizar el entrenamiento de atletas, integrando lógica compleja en un entorno compartido.
 
-* **Core Tech:** Compose Multiplatform (CMP), Kotlin Multiplatform (KMP), MVI Architecture.
-* **Backend:** Firebase Auth & Cloud Firestore (Sincronización Real-time).
-* **Highlight:** Arquitectura **multi-modular** avanzada con un sistema de **Onboarding Dinámico** y lógica compartida de cálculos físicos.
+* **Architecture:** Implementación de **MVI (Model-View-Intent)** con un `BaseViewModel` genérico, garantizando un flujo de datos unidireccional y predecible.
+* **Reactive State:** Uso avanzado de `StateFlow` y `SharedFlow` para la gestión de estados UI en tiempo real.
+* **Advanced Compose:** Implementación de side effects (`LaunchedEffect`, `DisposableEffect`) y gestión inteligente de estados con `rememberSaveable`.
+* **Infrastructure:** Arquitectura **multi-modular** para mejorar la escalabilidad, compilación modular y separación de responsabilidades.
+* **Integration:** Firebase (Auth, Firestore, Cloud Functions) con un enfoque en diseño desacoplado.
 
-> [**🎥 Ver Demo en YouTube**](https://www.youtube.com/watch?v=XLpzB0UJNzo) | [**💻 Explorar Repositorio**](https://github.com/Javalenciab90/FitBoxGo-Showcase)
+> [**🎥 Ver Demo en YouTube**](https://www.youtube.com/watch?v=XLpzB0UJNzo) | [**💻 Explorar Showcase**](https://github.com/Javalenciab90/FitBoxGo-Showcase)
 
----
+### 📲 Descarga FitBoxGo
+[![Linktree](https://img.shields.io/badge/Linktree-111111?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/FitBoxGoo)
+[![App Store](https://img.shields.io/badge/App_Store-000000?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/app/fitboxgo/id6761392693)
+[![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=org.javalenciab90.fitboxgo)
+
 
 ## 🚀 Tecnologías & Herramientas
 
