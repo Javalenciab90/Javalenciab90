@@ -24,7 +24,7 @@ Solución multiplataforma diseñada para optimizar el entrenamiento de atletas, 
 
 ## 🏋️ FitBoxGo: Mobile Showcase
 
-| **Demo: Onboarding & Calculadora** | **Demo: Sincronización & WODs** |
+| **Demo: RM & Calculadora** | **Demo: Sincronización & WODs** |
 | :---: | :---: |
 | <video src="https://github.com/user-attachments/assets/6f7435a6-8096-4738-837d-d5af384ff12e" width="300"></video> | <video src="https://github.com/user-attachments/assets/3140e1cd-b562-4623-9d22-0a3c9b1bab5c" width="300"></video> |
 
@@ -47,14 +47,12 @@ Solución multiplataforma diseñada para optimizar el entrenamiento de atletas, 
     <img src="https://img.shields.io/badge/Google_Play-Descargar_en_Android-34A853?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play"/>
   </a>
   <br><br>
-
   <a href="https://linktr.ee/FitBoxGoo">
     <img src="https://img.shields.io/badge/Linktree-Todos_los_enlaces-FF3366?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree"/>
   </a>
 </div>
 
 ---
-
 
 ## 🚀 Tecnologías & Herramientas
 
